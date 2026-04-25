@@ -1,0 +1,10 @@
+Algoritmo edad_usuario 
+DEFINIR edad COMO ENTERO 
+ESCRIBIR "digita tu edad"
+LEER edad1 
+SI edad1 >= 18 ENTONCES 
+    ESCRIBIR "bienvenido al laboratorio de robotica"
+SINO 
+    ESCRIBIR "su edad debe ser mayor o  igual a 18"
+FINSI
+FINALGORITMO
