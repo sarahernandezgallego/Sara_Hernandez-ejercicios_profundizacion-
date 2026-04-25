@@ -1,5 +1,5 @@
 Algoritmo edad_usuario 
-DEFINIR edad COMO ENTERO 
+DEFINIR edad1 COMO ENTERO 
 ESCRIBIR "digita tu edad"
 LEER edad1 
 SI edad1 >= 18 ENTONCES 
