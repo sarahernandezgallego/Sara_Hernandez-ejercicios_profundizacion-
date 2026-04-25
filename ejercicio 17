@@ -1,0 +1,10 @@
+Algoritmo aprobacion_SENA 
+DEFINIR nota  COMO ENTERO
+ESCRIBIR "digita tu nota"
+LEER nota 
+SI nota >= 3.5
+    ESCRIBIR "competencia alcanzada"
+SINO 
+    ESCRIBIR "no alcanzaste la competencia"
+FINSI
+FINALGORITMO
