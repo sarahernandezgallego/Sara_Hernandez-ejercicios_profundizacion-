@@ -1,0 +1,10 @@
+Algoritmo alerta_temperatura
+DEFINIR tem COMO REAL 
+ESCRIBIR "¿cual es la temperatura actual?:"
+LEER tem 
+SI tem >100 ENTONCES 
+    ESCRIBIR "ALERTA: abrir valvula de escape"
+SINO
+    ESCRIBIR "todo esta en orden"
+FINSI
+FINALGORITMO
