@@ -1,0 +1,10 @@
+Algoritmo validacion_inventario 
+DEFINIR pieza COMO ENTERO
+ESCRIBIR "cuantas piezas hay en la bodega"
+LEER pieza
+SI pieza < 5 ENTONCES 
+    ESCRIBIR "Solicitar pedido urgente al proveedor"
+SINO
+    ESCRIBIR "no es necesario solicitar pedido urgente"
+FINSI
+FINALGORITMO
