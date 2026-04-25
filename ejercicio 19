@@ -1,0 +1,10 @@
+Algoritmo numero_positivo 
+DEFINIR num COMO REAL 
+ESCRIBIR "digita un numero"
+LEER num 
+SI num >0 ENTONCES 
+    ESCRIBIR "el numero es positivo"
+SINO 
+    ESCRIBIR "el numero es negativo"
+FINSI
+FINALGORITMO
